@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <math.h>
 
+/*아에이오우*/
+
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 #define STB_IMAGE_WRITE_IMPLEMENTATION
